@@ -1,4 +1,6 @@
 <?php
-	echo "Hello World !\n";
-	echo "My name is Shin Washio.\n";
+	for ($i=0; $i>=10; $i++) {
+		echo "Hello World !\n";
+		echo "My name is Shin Washio.\n";
+	}
 ?>
